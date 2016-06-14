@@ -7,9 +7,9 @@ Volt.configure do |config|
   #######################################
   # Basic App Info (stuff you should set)
   #######################################
-  config.domain = 'volt-tutorial.com'
-  config.app_name = 'Volt-tutorial'
-  config.mailer.from = 'Volt-tutorial <no-reply@volt-tutorial.com>'
+  config.domain = 'sfx-todo.com'
+  config.app_name = 'sfx-todo'
+  config.mailer.from = 'sfx-todo <no-reply@sfx-todo.com>'
 
   ############
   # App Secret
